@@ -39,6 +39,19 @@
 // }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 // class Demo 
 // {
 // public static void main(String[] list_name)
@@ -51,23 +64,4 @@
 
  
 
-
-// public class Demo
-// {
-//     public static void main(String[] args)
-//     {
-//         boolean b = 5 > 10;
-//         System.out.println(b);
-//     }
-// }
-
-
-
-// For git is  git add Demo.java
-
-// New topic
-// Operators
-// -- is decriment
-//  ++ is enciment 
-// 
 
