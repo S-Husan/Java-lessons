@@ -1,3 +1,13 @@
+// New topic
+// Operators
+// -- is decriment
+//  ++ is enciment 
+// 
+
+
+
+
+
 public class operators {
     public static void main(String[] args)
     {
